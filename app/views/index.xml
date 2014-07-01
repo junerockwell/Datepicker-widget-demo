@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="lo-composite">
+		<ScrollView>
+			<View class="container t-20">
+				<Label id="lblDate" class="col col-4">Input a Date</Label>
+				<View class="col col-4 input-container">
+					<TextField id="txtDate"  class="col-4" top="5" bottom="5" editable="false"  onTouchstart="showDatePicker"></TextField>
+				</View>
+			</View>
+		</ScrollView>
+	</Window>
+</Alloy>

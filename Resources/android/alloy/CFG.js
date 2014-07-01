@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"jhrockz.datepicker":"1.0"},"theme":"wriststrap"};

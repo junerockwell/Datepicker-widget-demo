@@ -1,0 +1,12 @@
+// Using wriststap for styling: https://github.com/TNuzzi/wriststrap
+
+// Local Override
+".full-w-container": {
+	width: '100%',
+    height: Ti.UI.SIZE,
+    layout: 'horizontal'
+}
+
+"#picker": {
+	backgroundColor: "white"
+}
