@@ -16,4 +16,5 @@ function showDatePicker() {
 	datePicker.getView().showDatePicker();
 }
 
+/* Open the View */
 $.index.open();

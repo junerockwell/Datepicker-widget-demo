@@ -50,8 +50,7 @@ function showDatePicker() {
 		}));
 	} else if (OS_ANDROID) {
 		/* The Android picker will be a pop-up
-		 * dialog.
-		 */
+		 * dialog. */
 		$.picker.showDatePickerDialog({
 			callback : function(e) {
 				if (e.cancel) {
